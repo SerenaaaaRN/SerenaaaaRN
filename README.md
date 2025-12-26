@@ -1,18 +1,6 @@
 # Hi Folks, I'm Rillah! 👋
 
-
-
-
 ### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Machine+Learning+Enthusiast;Informatics+Student" alt="Typing SVG" />
-
----
-
-## 💫 Tentang Saya
-Mahasiswa Informatika yang memiliki ketertarikan besar pada dunia **Data Science** dan **Machine Learning**. Saat ini, saya sedang aktif mengeksplorasi bagaimana data dapat diolah menjadi informasi yang berguna untuk pengambilan keputusan.
-
-- 🔭 **Proyek Terbaru:** Sedang mendalami berbagai Software Development Tools dan teknik pengolahan data untuk membangun aplikasi yang fungsional..
-- 🌱 **Sedang Belajar:** Advanced Python, library python, Java Backend, dan eksplorasi bahasa pemrograman lain.
-- ⚡ **Hobi:** Belajar hal baru, berdiskusi struktur software dibangun dengan efisien.
 
 ---
 
