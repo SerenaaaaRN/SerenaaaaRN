@@ -7,29 +7,34 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /> </p>  
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+
+  <!-- Styling & UI -->
+  <img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=radixui&logoColor=white" />
+  <img src="https://img.shields.io/badge/magic%20ui-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white" />
+
+  <!-- Animation -->
+  <img src="https://img.shields.io/badge/framer%20motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+
+  <!-- Data & ML (rekomendasi tambahan) -->
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
+  <img src="https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
+
 
 ---
 
 ## 📊 Statistik GitHub
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=SerenaaaaRN&show_icons=true&theme=tokyonight)
-![Bahasa Paling Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=SerenaaaaRN&layout=compact&theme=tokyonight)
-
----
-
-## 📂 Highlight Project
-### [Solver Persamaan Diferensial - Kalkulus Project](https://github.com/SerenaaaaRN/kalkulus-project-1)
-  Aplikasi berbasis web yang dirancang untuk membantu mahasiswa menyelesaikan **Persamaan Diferensial Biasa (ODE)** secara langkah-demi-langkah (step-by-step).
-- **Fitur:** Kalkulator ODE otomatis dengan penjelasan langkah penyelesaian dan visualisasi grafik solusi.
-- **Tools:** Python (SymPy, NumPy, Matplotlib) untuk komputasi matematika, dan React (TypeScript) untuk antarmuka pengguna yang modern.
-
-### [Bike Sharing Data Analysis Dashboard](https://github.com/SerenaaaaRN/GDGoC---Duhairillah-ML)
- Proyek ini merupakan implementasi **Exploratory Data Analysis (EDA)** untuk menjawab pertanyaan bisnis terkait tren penyewaan sepeda berdasarkan cuaca dan waktu.
-- **Fitur:** Visualisasi data interaktif dan dashboard analisis.
-- **Tools:** Python, Pandas, Seaborn, Streamlit.
-
+![Statistik GitHub](https://gh-readme-profile.vercel.app/api?username=SerenaaaaRN)
