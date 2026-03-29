@@ -1,9 +1,5 @@
-# 💫 About Me:
-Hi there! im a Computer Science student who builds where data, software, and ML/AI meet. I'm also highly curious about the DevOps space and looking forward to exploring it.
-
-<br/>
-
----
+## 💫 About Me
+Hi there! im a Computer Science student who builds where data, software, and ML/AI meet. Im also highly curious about the DevOps space and looking forward to exploring it.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__rillah) 
@@ -27,13 +23,7 @@ Hi there! im a Computer Science student who builds where data, software, and ML/
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
----
+## 📈 Github Contribution
+![snake github contribution](https://raw.githubusercontent.com/SerenaaaaRN/SerenaaaaRN/output/github-contribution-grid-snake.svg)
 
-![github contribution snake](https://raw.githubusercontent.com/flyychmoreeee/flyychmoreeee/output/github-contribution-grid-snake.svg)
-[![](https://visitcount.itsvg.in/api?id=flyychmoreeee&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-## 📊 Statistik GitHub
-![Statistik GitHub](https://gh-readme-profile.vercel.app/api?username=SerenaaaaRN)
-
+[![GitHub Readme Profile](https://gh-readme-profile.vercel.app/api?username=SerenaaaaRN&theme=ayu&locale=en&title=Stats&hide=issues&border_width=1&border_radius=10&revert=false&hide_stroke=false)](https://bit.ly/gh-readme-profile)
